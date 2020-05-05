@@ -1,4 +1,4 @@
-# Required functionality
+# Checkbox functionality to post the checkbox data to anoter page using React, Redux and Hooks
 
 - This is a simple benefit selection application Using React, Redux and Hooks
 
