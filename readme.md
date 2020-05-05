@@ -8,14 +8,8 @@
 
 - Upon clicking Review selection, route should change to '/review'. Note that you need to add react-router dependency for the same and configure routes.
 
-- On the Review page, user should see their selections that they did on the selection page. (Review page is also currently hardcoded and will need to render info as selected)
-
+- On the Review page, user should see their selections that they did on the selection page. 
 - Back button on review should bring user back to selection page
 
 - Note: In App.js, BenefitReview component is included.
 
-# Instructions
-
-- Do not modify benefits.json
-- Redux/hooks is optional but nice to have
-- Good luck!
