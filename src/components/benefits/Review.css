@@ -1,0 +1,35 @@
+.review-section {
+  background: #f0f0f0;
+  text-align: left;
+  padding: 0 10px 10px 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.review-section > p {
+  padding-top: 10px;
+  font-size: 12px;
+  color: #c00;
+}
+.review-section ul {
+  padding: 0;
+}
+.review-section ul > li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.review-section__package-label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+.review-section__category-label {
+  font-size: 16px;
+  font-weight: bold;
+  color: green;
+  margin-bottom: 5px;
+}
+.review-section__benefit-label {
+  font-size: 13px;
+  color: navy;
+}

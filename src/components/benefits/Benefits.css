@@ -1,0 +1,49 @@
+h1 > span {
+	color: #333;
+}
+.benefits-section {
+	background: #f0f0f0;
+	text-align: left;
+	padding: 0 10px 10px 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.benefits-section__header {
+	border-bottom: 1px solid #333;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.benefits-section__header > h2 {
+	font-size: 18px;
+}
+.benefits-section__header-cb {
+	font-size: 12px;
+}
+.benefits-section > p {
+	font-size: 12px;
+}
+.benefits-section__categories {
+	background: #ccc;
+	padding: 0 10px;
+	border-radius: 5px;
+	display: flex;
+}
+.benefits-section__category-section {
+	margin-right: 30px;
+}
+.benefits-section__category-section > h3 {
+	font-size: 15px;
+}
+.benefits-section__category-section > ul {
+	padding: 0;
+}
+.benefits-section__category-section > ul > li {
+	list-style: none;
+}
+.benefits-section__category-section > ul > li > input {
+	margin-right: 12px;
+}
+.benefits-section__category-section > ul > li > label {
+	font-size: 13px;
+}
