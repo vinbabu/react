@@ -1,8 +1,8 @@
 # Required functionality
 
-- This is a simple benefit selection application
+- This is a simple benefit selection application Using React, Redux and Hooks
 
-- The UI is currently hardcoded, you need to use the data in benefits.json to render the list of benefit packages (Basic, Additional ...), their respective categories (Health, Travel, ...) and the respective benefits (Actual, Accrued...) under each category.
+- Data fetching from benefits.json to render the list of benefit packages (Basic, Additional ...), their respective categories (Health, Travel, ...) and the respective benefits (Actual, Accrued...) under each category.
 
 - Review selection button will be disabled to begin with unless the user selects at least one package by checking 'include' and at least one benefit for any category in that package.
 
@@ -12,13 +12,10 @@
 
 - Back button on review should bring user back to selection page
 
-- Note: In App.js, BenefitReview component is included but commented out. Uncomment the same to see the UI required.
+- Note: In App.js, BenefitReview component is included.
 
 # Instructions
 
 - Do not modify benefits.json
-- For your benefit, almost all of the CSS work is already done.
-- You can use Google and/or any other dependency as you please.
 - Redux/hooks is optional but nice to have
-- Do not share this exercise with anyone or do pair programming. This is an assessment only for you.
 - Good luck!
